@@ -290,3 +290,8 @@ gca_languages['es'] = {
 }
 
 gca_languages._active = "es";
+// Get the a line from the en.js
+number_of_items : "Number of items : {{number}}",
+
+// Paste it on the de.js file and translate it, ignore enything inside {{this}} brakets
+number_of_items : "Anzahl der Teile : {{number}}",
